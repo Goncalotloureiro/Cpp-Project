@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TrabalhoPOO",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TrabalhoPOO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TrabalhoPOO-Debug-fe4fd6d22ae3cd9e1dea.json",
+					"name" : "TrabalhoPOO",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tigas/Desktop/poo_2324_m1_BrunoCorreia_2015015880_TiagoCoelho_2018017089/exe/cmake-build-debug",
+		"source" : "C:/Users/tigas/Desktop/poo_2324_m1_BrunoCorreia_2015015880_TiagoCoelho_2018017089/exe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

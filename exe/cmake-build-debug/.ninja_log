@@ -1,0 +1,11 @@
+# ninja log v5
+43	165	7223051459049256	CMakeFiles/TrabalhoPOO.dir/zonas.cpp.obj	e65b4dd462b3f236
+12	146	7223051458778019	CMakeFiles/TrabalhoPOO.dir/habitacao.cpp.obj	332e030437792b8d
+62	176	7223051459169345	CMakeFiles/TrabalhoPOO.dir/aparelho.cpp.obj	e9ab97320fc74a6f
+19	143	7223051458813419	CMakeFiles/TrabalhoPOO.dir/propriedades.cpp.obj	7651c38930cf52fe
+27	152	7223051458834570	CMakeFiles/TrabalhoPOO.dir/sensores.cpp.obj	e7974e86069aa0ca
+71	672	7223051464153433	CMakeFiles/TrabalhoPOO.dir/Interface.cpp.obj	f0de0c5b2c188b2a
+4	419	7223051461620081	CMakeFiles/TrabalhoPOO.dir/main.cpp.obj	396b51377697a165
+34	164	7223051459039354	CMakeFiles/TrabalhoPOO.dir/regras.cpp.obj	ba0a8ac929cc15f9
+53	490	7223051462328121	CMakeFiles/TrabalhoPOO.dir/terminal.cpp.obj	b5b1feda8cdf3224
+673	828	7223051465661936	TrabalhoPOO.exe	291a4d9ee2712a05

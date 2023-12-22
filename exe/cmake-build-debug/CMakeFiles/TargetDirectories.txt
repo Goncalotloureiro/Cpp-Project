@@ -1,0 +1,3 @@
+C:/Users/tigas/Desktop/poo_2324_m1_BrunoCorreia_2015015880_TiagoCoelho_2018017089/exe/cmake-build-debug/CMakeFiles/TrabalhoPOO.dir
+C:/Users/tigas/Desktop/poo_2324_m1_BrunoCorreia_2015015880_TiagoCoelho_2018017089/exe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tigas/Desktop/poo_2324_m1_BrunoCorreia_2015015880_TiagoCoelho_2018017089/exe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
