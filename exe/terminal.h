@@ -8,12 +8,11 @@
 
 #ifndef NCURSES_TERMINAL_H
 #define NCURSES_TERMINAL_H
-
+#include <ncurses.h>
 #include <string>
 #if defined(WIN32) || defined(_WIN32) || defined(__WIN32__) || defined(__NT__)
 #include "curses.h"
 #else
-#include <ncurses.h>
 #endif
 
 namespace term {

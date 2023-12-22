@@ -1,21 +1,22 @@
-#ifndef TRABALHOPOO_HABITAÇÃO_H
-#define TRABALHOPOO_HABITAÇÃO_H
+#ifndef HABITACAO_H
+#define HABITACAO_H
 
-    class Habitacao {
-    public:
-        Habitacao(int numLinhas, int numColunas);
-        ~Habitacao();
+#include "Zona.h"
+#include <vector>
 
-        void adicionarZona(Zona zona);
-        void removerZona(string idZona);
+class Habitacao {
+public:
+    Habitacao();
+    ~Habitacao();
 
-        void listarZonas() const;
+    bool adicionarZona(const Zona& zona, int x, int y);
+    bool removerZona(int x, int y);
+    Zona* obterZona(int x, int y) const;
 
-    private:
-        int numLinhas;
-        int numColunas;
+    void listarZonas() const;
 
-        bool posicaoValida(int linha, int coluna) const;
-    };
+private:
+    std::vector<std::vector<Zona>> grelha; // Matriz de zonas
+};
 
-#endif //TRABALHOPOO_HABITAÇÃO_H
+#endif // HABITACAO_H

@@ -1,0 +1,52 @@
+
+Habitação:
+
+    Criação e Remoção:
+        Criamos métodos para instanciar habitações com parâmetros como nome, tamanho e localização. Para remoção, desenvolvemos um método para eliminar uma habitação existente do sistema.
+
+    Configuração de Zonas:
+        Implementamos métodos para adicionar e gerenciar zonas dentro de uma habitação, permitindo a atribuição de zonas específicas a uma habitação já existente.
+
+Sensores:
+
+    Tipos de Sensores:
+        Desenvolvemos classes distintas para cada tipo de sensor, com métodos específicos considerando suas características individuais.
+
+    Interação com Zonas e Habitações:
+        Criamos métodos para vincular sensores a zonas específicas ou até mesmo a uma habitação, permitindo sua integração no sistema de forma direcionada.
+
+Zonas:
+
+    Características das Zonas:
+        Definimos métodos para manipular propriedades das zonas, como seu tamanho, nome, tipo, e para gerenciar os sensores associados a elas.
+
+    Relacionamento com Sensores e Habitações:
+        Implementamos métodos para adicionar ou remover sensores de uma zona, garantindo a correta associação das zonas com as habitações correspondentes.
+
+Aparelhos:
+
+    Tipos de Aparelhos:
+        Criamos classes específicas para cada tipo de aparelho, com métodos para controlar suas funcionalidades individuais.
+
+    Vínculo com Zonas e Habitações:
+        Implementamos métodos para associar aparelhos a zonas ou habitações, permitindo o controle desses dispositivos dentro do contexto do sistema.
+
+Regras:
+
+    Processador de Regras:
+        Desenvolvemos um sistema capaz de interpretar regras pré-definidas, aplicando-as em resposta a eventos específicos no sistema.
+
+    Criação e Gerenciamento de Regras:
+        Implementamos métodos para criar, modificar e eliminar regras, bem como associá-las a zonas, sensores ou aparelhos específicos.
+
+Processador:
+
+    Processamento de Comandos:
+        Criamos um mecanismo para interpretar e executar comandos recebidos do usuário ou de uma interface, aplicando as ações correspondentes nas classes relevantes do sistema.
+
+Propriedades:
+
+    Gerenciamento de Propriedades:
+        Definimos métodos para definir, modificar e acessar propriedades específicas de diferentes componentes do sistema, permitindo seu uso em conjunto com as funcionalidades das outras classes.
+
+Essas decisões foram tomadas para atender aos requisitos do projeto, garantindo uma estrutura coesa e funcional do sistema.
